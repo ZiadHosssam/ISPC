@@ -1,0 +1,19 @@
+{
+  "name": "physics-club-is",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/express": "^5.0.0",
+    "@types/gapi": "^0.0.47",
+    "gapi": "^0.0.3"
+  },
+  "peerDependencies": {
+    "typescript": "^5.8.2"
+  },
+  "dependencies": {
+    "@types/google.accounts": "^0.0.15",
+    "express": "^4.21.2",
+    "https": "^1.0.0"
+  }
+}
